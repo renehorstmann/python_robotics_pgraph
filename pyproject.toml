@@ -31,7 +31,11 @@ keywords = [
     "optimal path",
 ]
 
-dependencies = ["spatialmath-python", "numpy>=1.18.0", "scipy", "matplotlib"]
+dependencies = [
+    #"spatialmath-python", 
+    "numpy>=1.18.0", 
+    "scipy", 
+    "matplotlib"]
 
 [project.urls]
 
